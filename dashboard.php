@@ -155,7 +155,6 @@ body{
 <body>
 
 <div class="header">
-    <h1>Welcome! </h1>
     <p>Your current level: <span class="level"><?= $level ?></span></p>
 
     <div class="profile" onclick="toggleMenu()">
